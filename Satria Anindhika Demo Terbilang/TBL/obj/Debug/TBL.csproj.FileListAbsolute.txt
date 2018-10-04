@@ -1,0 +1,6 @@
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\bin\Debug\TBL.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\bin\Debug\TBL.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\obj\Debug\TBL.csprojAssemblyReference.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\obj\Debug\TBL.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\obj\Debug\TBL.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\TBL\obj\Debug\TBL.pdb

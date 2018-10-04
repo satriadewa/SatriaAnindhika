@@ -1,0 +1,13 @@
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\bin\Debug\Terbilang.exe.config
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\bin\Debug\Terbilang.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\bin\Debug\Terbilang.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\bin\Debug\TBL.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\bin\Debug\TBL.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.csprojAssemblyReference.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.Form1.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.Properties.Resources.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.csproj.GenerateResource.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.csproj.CopyComplete
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\TerbilangApp\Terbilang\obj\Debug\Terbilang.pdb
